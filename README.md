@@ -1,2 +1,2 @@
-# S1_Debugging_JS_Project
-Debugging for JavaScript - Project
+# S1_Debugging_JS_Exercise
+Debugging for JavaScript - Exercise
